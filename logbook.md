@@ -5,4 +5,4 @@
 | 29. 10. 2025 | 3 h | Cybersecurity on Cisco | Read about the lag related to responding to Vastaamo leak and completed the first chapter of the online course, scoring 70% on the quiz. |   
 | 31. 10. 2025 | 2 h | Chapter 2: Attacks, Concepts & Techniques | Aced the quiz of first chapter | 
 | 1. 11. 2025 | 2 h | Chapter 2: Complete. Started 3rd chapter | Chapter 2 Quiz 88% | 
-| 3. 11. 2025 | 3 h | Chapter 3: Complete. | Chapter 3 quiz 92% |
+| 3. 11. 2025 | 4 h | Chapter 3 & 4: Complete. | Chapter 3 quiz 92%, Chapter 4 quiz,  75% |
