@@ -8,4 +8,4 @@
 | 3. 11. 2025 | 4 h | Chapter 3 & 4: Complete. | Chapter 3 quiz 92%, Chapter 4 quiz,  75% |
 | 4. 11. 2025 | 1 h | Chapter 5: Complete | Chapter 5 quiz 100%, Final exam 73%. Submitting course results to itslearning | 
 | 18. 11. 2025 | 2 h | Studying portswigger, downloading burpsuite | Failed to return assignment 3 in time | 
-| 24. 11. 2025 | 5 h | Booking system: Phase 1 | Reinstalled docker, setup local lab for pentesting. Attending lecture. | 
+| 24. 11. 2025 | 5 h | Booking system: Phase 1 | Reinstalled docker, setup local lab for pentesting and downloaded ZAP, the pentesting tool. Attended lecture. | 
